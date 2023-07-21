@@ -1,0 +1,5 @@
+main:
+  - title: "My Story"
+    url: /mystory
+  - title: "Certifications"
+    url: /certifications
