@@ -1,5 +1,5 @@
 main:
-  - title: "My Story"
-    url: /mystory
+  - title: "Testimonies"
+    url: /testimonies
   - title: "Certifications"
     url: /certifications

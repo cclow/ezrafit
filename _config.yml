@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ezra Fit
+title: Ezra Fit4Life
 title_separator: "|"
 # subtitle: ""
 name: Ezra Low
@@ -68,3 +68,21 @@ exclude:
 #   - vendor/ruby/
 include:
   - _pages/
+
+collections:
+  testimonies:
+    output: true
+    permalink: /:collection/:path
+    order:
+      - weechong.md
+      - bernard.md
+      - siewbeng.md
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fit4life"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ezrafit4life"

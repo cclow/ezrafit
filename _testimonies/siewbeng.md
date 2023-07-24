@@ -1,3 +1,11 @@
+---
+layout: testimony
+person: Siew Beng
+born: 1959
+title: Testimony --- Siew Beng
+share: true
+---
+![Siew Beng](/assets/images/siewbeng.jpeg){: .align-right}
 I’ve joined Chin Chau’s exercise group in April 2021 amidst the COVID restrictions.
 Starting through Zoom before going on site after the restrictions were lifted. 
 

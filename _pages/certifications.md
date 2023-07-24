@@ -3,7 +3,6 @@ layout: single
 title: "Certifcations"
 permalink: "/certifications/"
 ---
-
 ## Personal Trainer
 
 ![ACE Certified Personal Trainer](/assets/images/certificates/ACE_CPT.jpg){:align-center}
