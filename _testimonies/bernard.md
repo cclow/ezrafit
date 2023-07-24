@@ -5,7 +5,7 @@ born: 1960
 title: Testimony --- Bernard
 share: true
 ---
-![Bernard](/assets/images/bernard.jpeg){: .align-right}
+![Bernard](/assets/images/bernard.jpeg){: .align-left}
 Ezra is a very  pleasant, patient and knowledgeable Fitness and Nutrition coach.
 He is also a great and understanding friend.
 He demonstrated through his own body fitness and food management getting into a very good shape.
