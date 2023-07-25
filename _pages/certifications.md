@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Certifcations"
+title: "Certifications"
 permalink: "/certifications/"
 ---
 ## Personal Trainer
