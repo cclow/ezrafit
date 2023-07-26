@@ -32,15 +32,15 @@ The results in December 2011, 10 months later:
 
 ![December 2011, 10 months after I started](/assets/images/201112.jpg){: .align-left}
 
-Since then, I've tried to learn more, experimenting with my diet and exercise.
-I learned that once you're on the right track, it does not take that much effort to maintain it.
-Even when I exercise very little for periods of three to six months, my weight maintained.
+I've lost at least 14kg of weight, went from barely fitting into jeans with 36in waist to fitting comfortably into 31in one that you see in the photo. I reduced my triglyceride and total cholesterol to HDL ratio to below 60 mg/dl and 4 respectively. I feel more energetic and much stronger now. Many aches and pains I've accumulated over the years in my shoulder and ankle have disappeared.
 
 My goal has gone beyond weight loss to better health, fitness, and living a more fulfilling life.
 
-I've lost at least 14kg of weight, went from barely fitting into jeans with 36in waist to fitting comfortably into 31in one that you see in the photo. I reduced my triglyceride and total cholesterol to HDL ratio to below 60 mg/dl and 4 respectively. I feel more energetic and much stronger now. Many aches and pains I've accumulated over the years in my shoulder and ankle have disappeared.
-
 Through this journey, I found that much of the advice from conventional wisdom are misguided.
+
+Since then, I've tried to learn more, experimenting with my diet and exercise.
+I learned that once you're on the right track, it does not take that much effort to maintain it.
+Even when I exercise very little for periods of three to six months, my weight maintained.
 
 I found that most diets do not work beyond the short term, and that what we eat is more important than how much we eat.
 I learned that many of the foods we thought were healthy are not, and many we thought were unhealthy were, in fact, good for us.
