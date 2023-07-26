@@ -20,6 +20,9 @@ If you want to:
 * Develop and maintain a healthy relationship with food, exercise, and your physcial condition
 
 [Contact me](https://forms.gle/WsBVSzgSTPhMQDW1A){:target="_blank"} today for a free, no obligation consultation.
+You can also follow me on 
+<a href="https://instagram.com/ezrafit4life" rel="nofollow noopener noreferrer" target="_blank"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>
+for updates.
 
 > Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God?  
 You are not your own, for you were bought with a price.
