@@ -52,9 +52,9 @@ I learned that many of the foods we thought were healthy are not, and many we th
 
 I learned that we are better off building strength, muscles, and mobility, than doing cardio, as it is commonly practised, to burn fat.
 
-I have learned that besides exercising and dieting, there are many other factors to one's health, including rest, recovery, and even following our bodies' natural rhythms.
+I learned that besides exercising and dieting, there are many other factors to one's health, including rest, recovery, and even following our bodies' natural rhythms.
 
-I have learned that weight loss is just a small component of living a strong, active, fulfilling life, that we should find our own balances between health, fitness, performance, longevity and enjoying life.
+I learned that weight loss is just a small component of living a strong, active, fulfilling life, that we should find our own balances between health, fitness, performance, longevity and enjoying life.
 
 Our bodies are wonderfully complex, and even good information can be incomplete, inconclusive, hard to interpret, or seemingly contradicting.
 However, there is enough we can agree on that would let most people improve their current state.
