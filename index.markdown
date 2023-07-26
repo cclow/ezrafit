@@ -9,7 +9,7 @@ layout: home
 Hi, I'm Ezra Low Chin Chau. I'm a [personal trainer](/certifications), and [nutrition coach](/certifications).
 
 When I was 46 in early 2011, I found myself in poor health despite being moderately active and careful about my diet.
-My experience in regaining my health taught me what worked, and ignited my my interest in learning more and in helping more people regain and maintain their ability to live actively. You can read more of my story on [this page](/mystory).
+My experience in regaining my health taught me what worked, and ignited my my interest in learning more and in helping more people regain and maintain their ability to live actively. You can read more of my story on [this page](/mystory), and testimonies of some people I worked with [here](/testimonies).
 
 I believe in living actively regardless of age, and in helping others do the same.
 
