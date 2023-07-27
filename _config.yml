@@ -93,3 +93,8 @@ footer:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook"
     #   url: "https://www.facebook.com/profile.php?id=100094490877698"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-1VH2QJ3Q0R"
+    anonymize_ip: false # default
