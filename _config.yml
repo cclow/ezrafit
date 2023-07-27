@@ -28,6 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ezrafit4life
+
 # github_username:  jekyll
 # logo:
 # breadcrumbs: true
@@ -86,6 +87,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ezrafit4life"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@EzraFit4Life-db2xz"
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook"
     #   url: "https://www.facebook.com/profile.php?id=100094490877698"
