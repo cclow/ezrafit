@@ -5,5 +5,8 @@ main:
     url: /mystory
   - title: "Testimonies"
     url: /testimonies
+  - title: "Updates"
+    url: /updates
   - title: "Certifications"
     url: /certifications
+  
