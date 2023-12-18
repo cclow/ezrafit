@@ -4,7 +4,7 @@ title:  "My Experiment with FreeStyle Libre"
 date:   2023-12-18 12:30 +0800
 categories: update
 ---
-I wore the FreeStyle Libre CGM (Continuous Glucose Monitor) sensor a short while ago as an experiment. CGMs are able to capture the blood sugar fluctuations in addition to the snapshot of the standard fasting test, and I was  to understand
+I wore the FreeStyle Libre CGM (Continuous Glucose Monitor) sensor a short while ago as an experiment. CGMs are able to capture the blood sugar fluctuations in addition to the snapshot of the standard fasting test, and I wanted to understand
 * How my blood sugar level fluctuates through the day and how various food and exercises affect it
 * The experience of going through the day with this sensor attached 
 ![FreeStyle Libre](/assets/images//freestyle-libre/FreeStyle.jpeg){: .align-center}
