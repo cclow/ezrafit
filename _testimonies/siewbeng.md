@@ -6,7 +6,7 @@ title: Testimony --- Siew Beng
 share: true
 ---
 ![Siew Beng](/assets/images/siewbeng.jpeg){: .align-right}
-I’ve joined Chin Chau’s exercise group in April 2021 amidst the COVID restrictions.
+I joined Chin Chau’s exercise group in April 2021 amidst the COVID restrictions.
 Starting through Zoom before going on site after the restrictions were lifted. 
 
 After my retirement in 2019, my main activities to improve my health is walking and running.

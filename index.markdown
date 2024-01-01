@@ -17,13 +17,12 @@ I provide coaching in fitness and nutrition, individually tailored to your needs
 If you want to:
 * Be physically and mentally fit to interact actively with your family, friends and community
 * Be able to travel and engage in active outdoor activities without many age-related restrictions
-* Develop and maintain a healthy relationship with food, exercise, and your physcial condition
+* Develop and maintain a healthy relationship with food, exercise, and your physical condition
 
 [Contact me](https://forms.gle/WsBVSzgSTPhMQDW1A){:target="_blank"} today for a free, no obligation consultation.
 You can also follow me on 
 <a href="https://instagram.com/ezrafit4life" rel="nofollow noopener noreferrer" target="_blank"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a>
 for updates.
 
-> Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God?  
-You are not your own, for you were bought with a price.
-So glorify God in your body.   --- 1 Corinthians 6:19-20
+> I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.
+--- Psalm 139:14
